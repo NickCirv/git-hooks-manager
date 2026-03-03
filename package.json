@@ -1,0 +1,31 @@
+{
+  "name": "git-hooks-manager",
+  "version": "1.0.0",
+  "description": "Install, manage, and share git hooks across projects. Husky alternative. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "git-hooks-manager": "./index.js",
+    "ghm": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "hooks",
+    "git-hooks",
+    "husky-alternative",
+    "pre-commit",
+    "developer-productivity"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
