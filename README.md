@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-hooks-manager
 
 **Zero-dependency** git hooks manager for Node.js projects. Install, manage, and share git hooks across your team — no external packages required.
